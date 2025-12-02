@@ -1,3 +1,4 @@
+
 # driBolos_SQL
 🧱 Modelo Lógico do Banco (Descrição das Tabelas)
 
@@ -100,3 +101,5 @@ DELETE FROM entrega WHERE status = 'Cancelada';
 Esther
 Curso: Banco de Dados – Atividade 4 (DML & Modelagem)
 # driBolos_SQL
+
+
